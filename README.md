@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:จีราพัชร เตชะผลประสิทธิ์
+# STUDENT ID:670610748
